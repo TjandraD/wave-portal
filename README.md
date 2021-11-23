@@ -31,3 +31,17 @@ Run below command in your terminal
 ```shell
 npx hardhat run scripts/run.js
 ```
+
+## Start a Local Ethereum Network
+
+Run below command in your terminal
+```shell
+npx hardhat node
+```
+
+## Deploy The Project Locally
+
+Run below command in your terminal
+```shell
+npx hardhat run scripts/deploy.js --network localhost
+```
