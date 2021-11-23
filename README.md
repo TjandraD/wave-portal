@@ -24,3 +24,10 @@ Run below command in your terminal
 ```shell
 npx hardhat test
 ```
+
+## How to Run The Project
+
+Run below command in your terminal
+```shell
+npx hardhat run scripts/run.js
+```
